@@ -1,0 +1,1 @@
+# -The-program-will-search-in-the-loaded-data-and-getting-the-definition-of-the-word-for-the-user.
