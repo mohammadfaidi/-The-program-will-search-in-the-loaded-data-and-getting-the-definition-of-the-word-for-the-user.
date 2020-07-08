@@ -27,12 +27,12 @@ def closeMatches(patterns, word):
 
 def closeUpper(patterns, word):
    # print(get_close_matches(word, patterns))
-    print(get_close_matches(word.upper(), patterns, 1, 0.9))
+    print(get_close_matches(word.upper(), patterns))
 
 
 def closeSmall(patterns, word):
    # print(get_close_matches(word, patterns))
-    print(get_close_matches(word.small(), patterns, 1, 0.9))
+    print(get_close_matches(word.small(), patterns))
 
 
 word = input("Enter your word:")
